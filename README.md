@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<a href="https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Chanel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
