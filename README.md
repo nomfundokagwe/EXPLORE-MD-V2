@@ -5,3 +5,15 @@
 <p align="center">
 <img src="https://qu.ax/AsaYh.jpg" alt="Explore-MD-V2" width="1000"/>
 </p>
+<p align="center">
+<a href="https://github.com/explore-xmd/followers"><img title="Followers" src="https://img.shields.io/github/followers/explore-md?color=red&style=flat-square"></a>
+<a href="https://github.com/nomfundokagwe/EXPLORE-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nomfundokagwe/EXPLORE-MD-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/nomfundokagwe/EXPLORE-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nomfundokagwe/EXPLORE-MD-V2?color=red&style=flat-square"></a>
+<a href="https://github.com/nomfundokagwe/EXPLORE-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nomfundokagwe/EXPLORE-MD-V2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/explore-xmd"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/nomfundokagwe/EXPLORE-MD-V2"><img title="Size" src="https://img.shields.io/github/repo-size/nomfundokagwe/EXPLORE-MD-V2?style=flat-square&color=green"></a>
+</p>
+
+<p align="center">
+<a href="https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
