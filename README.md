@@ -17,3 +17,9 @@
 <p align="center">
 <a href="https://whatsapp.com/channel/0029Vb4HUnJAjPXOWnELU82J"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Chanel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
+- #### Clone EXPLORE-MD-V2 [`open`](https://github.com/nomfundokagwe/EXPLORE-MD-V2/fork)
+- #### Agregar/edit Owners [`open`](https://github.com/nomfundokagwe/EXPLORE-MD-VW/blob/main/data/owner.json)
+- #### Version de Baileys en el [`package.json`](https://github.com/nomfundokagwe/EXPLORE-MD-V2/blob/main/package.json)
+</p>
+
+***
